@@ -1,0 +1,26 @@
+D:\text web form\BaiCuoiKy\BaiCuoiKy\bin\Debug\BaiCuoiKy.exe.config
+D:\text web form\BaiCuoiKy\BaiCuoiKy\bin\Debug\BaiCuoiKy.exe
+D:\text web form\BaiCuoiKy\BaiCuoiKy\bin\Debug\BaiCuoiKy.pdb
+D:\text web form\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.csprojResolveAssemblyReference.cache
+D:\text web form\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.LoaiSach.resources
+D:\text web form\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.PhieuNhap.resources
+D:\text web form\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.Properties.Resources.resources
+D:\text web form\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.csproj.GenerateResource.Cache
+D:\text web form\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.exe
+D:\text web form\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.pdb
+D:\text web form\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.Sach.resources
+D:\text web form\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.DocGia.resources
+D:\text web form\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.MuonSach.resources
+C:\Users\hoang\OneDrive\Desktop\BaiCuoiKy\BaiCuoiKy\bin\Debug\BaiCuoiKy.exe.config
+C:\Users\hoang\OneDrive\Desktop\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.exe
+C:\Users\hoang\OneDrive\Desktop\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.pdb
+C:\Users\hoang\OneDrive\Desktop\BaiCuoiKy\BaiCuoiKy\bin\Debug\BaiCuoiKy.exe
+C:\Users\hoang\OneDrive\Desktop\BaiCuoiKy\BaiCuoiKy\bin\Debug\BaiCuoiKy.pdb
+C:\Users\hoang\OneDrive\Desktop\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.csprojResolveAssemblyReference.cache
+C:\Users\hoang\OneDrive\Desktop\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.DocGia.resources
+C:\Users\hoang\OneDrive\Desktop\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.LoaiSach.resources
+C:\Users\hoang\OneDrive\Desktop\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.MuonSach.resources
+C:\Users\hoang\OneDrive\Desktop\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.PhieuNhap.resources
+C:\Users\hoang\OneDrive\Desktop\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.Properties.Resources.resources
+C:\Users\hoang\OneDrive\Desktop\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.Sach.resources
+C:\Users\hoang\OneDrive\Desktop\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.csproj.GenerateResource.Cache
